@@ -6,5 +6,9 @@ class loops
 		{
 			System.out.println(i);
 		}
+
+		System.out.println("Done with loops");
+		System.out.println("I am done using loops now trying for while");
+		
 	}
 }
